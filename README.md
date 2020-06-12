@@ -4,6 +4,9 @@ on its own life by giving a helping hand in lab environments. The application in
 and a stage manager part, that specifically is built to work as an easy interface to manage Thorabs' Linear
 Tranlation Stage (lts-150).
 
+## Download
+Download the entire *Releases* folder to your preffered location on your machine and unzip the downloaded zip-folder. Double click *Setup.exe* and wait. You are now done and good to go!
+
 ## Updates
 The application is still a work in progress and updates will occur frequently within the next few month.
 
